@@ -1,0 +1,113 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2 {
+  font-weight: 800;
+  color: #333333;
+}
+
+a{
+  color: black;
+}
+
+.navbar {
+  font-weight: 600;
+  color: #333333;
+}
+
+.navbar-brand, .navbar a {
+  color: #333333 !important;
+}
+
+.navbar li a:hover{
+  background-color: #e63819;
+  color: #262626;
+  font-weight: 600;
+}
+
+.navbar{
+  background-color: #eb5f46;
+  border-radius: 0px;
+}
+
+.jumbotron {
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  margin-top: -15px;
+}
+
+.jumbotron h2 {
+  font-size: 4em;
+}
+
+.jumbotron .btn {
+  font-size: 1.2em;
+}
+
+hr {
+  width: 80%;
+}
+.container2{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.profileImg {
+  border-radius: 100%;
+  width: 200px;
+  height: auto;
+  margin-left: 50%;
+  margin-bottom: 50px;
+}
+.fa-fort-awesome {
+  font-size: 8em;
+}
+
+.fa-chevron-left {
+  font-size: 4em;
+  margin-top: 100%;
+}
+
+.icon .fa {
+  font-size: 8em;
+  margin-top: 30px;
+}
+
+.work h2 {
+  margin-top: 40px;
+}
+
+.work {
+  text-align: center;
+  background-color: #EEEEEE;
+  height: 300px;
+}
+
+.footer {
+  background-color: #eb5f46;
+  border-radius: 0px;
+}
+
+.footer h2{
+  padding-top: 20px;
+} 
+
+.btn {
+  background-color: #e94c30;
+  border: solid #e63819;
+  border-width: 0px 1px 5px 1px;
+  margin-bottom: 50px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+.btn i {
+  padding-right: 10px;
+  font-size: 1em;
+}
+
+
